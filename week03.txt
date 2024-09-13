@@ -1,3 +1,8 @@
 2주차 수업내용
 -linux 명령어 기초(ls touch cat)
+cd .. (현재 폴더에서 상위 폴도로 이동)
 -git 명령어 기초(init,add,commit,log,status,push)
+- git clone "원격리포지토리주소"
+-git config --list <-설정값 확인용도
+-git remote remove origin-기존의 원격리포지터리 주소를 변경하려면 삭제를 해야 한다
+-git remote add origin "연결할 원격리포지토리 주소"
